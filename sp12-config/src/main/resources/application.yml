@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/你的个人路径/sp-config
+          uri: https://github.com/Dongsijin/sp-config
           searchPaths: config
           #username: your-username
           #password: your-password
